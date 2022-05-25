@@ -1,5 +1,3 @@
-require 'byebug'
-
 $alphabet = ('a'..'z').to_a
 
 def caesar_cipher(string, shift_factor)
